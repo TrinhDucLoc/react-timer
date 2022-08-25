@@ -1,5 +1,5 @@
 ---
-author: tuan hoang
+author: Loc Trinh
 title: React Timer
 id: cs-virgil-2.2-react-eco
 ---
